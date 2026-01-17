@@ -1,26 +1,15 @@
-# 🌟 IEEE LINK CAMP 2026 Website
+# LINK CAMP 2026
 
-[![License](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/licenses/MIT)
-[![HTML5](https://img.shields.io/badge/html5-orange)]()
-[![CSS3](https://img.shields.io/badge/css3-blue)]()
+This is a website project for **IEEE LINK CAMP 2026**.
 
-Welcome to the **IEEE LINK CAMP 2026** website project!  
-This project contains a simple HTML & CSS website created for the IEEE LINK CAMP event.
+## Features
+- HTML and CSS website
+- Responsive layout
+- About section, Hero section, and more
 
----
+## How to Run
+1. Open `index.html` in your browser.
+2. Enjoy the website!
 
-## 🚀 Features
-
-- **Responsive design** – Works on desktop, tablet, and mobile  
-- **Hero Section** – Eye-catching main banner  
-- **About Section** – Event description  
-- **Scrolling text banner** – Modern animation  
-- Clean HTML + CSS code, easy to read and customize  
-
----
-
-## 💻 How to Run
-
-1. Clone or download the repository:
-```bash
-git clone https://github.com/neonaster007-web/link-camp-by-Nandana-S.git
+## Author
+**Nandana S**
